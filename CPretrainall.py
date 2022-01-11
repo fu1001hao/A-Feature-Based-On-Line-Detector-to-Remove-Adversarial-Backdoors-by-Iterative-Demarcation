@@ -6,7 +6,7 @@ from sklearn.neighbors import LocalOutlierFactor
 from sklearn.svm import OneClassSVM
 from resnet import resnet18
 import pickle
-from featureClassifiers import featureClassifier, outputlayer, select
+from featureClassifiers import featureClassifier, select
 from sklearn.cluster import KMeans
 from sklearn.decomposition import PCA
 from sklearn.svm import OneClassSVM
