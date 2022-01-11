@@ -1,6 +1,6 @@
 import torch
 import torch.nn as nn
-from featureClassifiers import featureClassifier, outputlayer, select
+from featureClassifiers import featureClassifier, select
 import torch.optim as optim
 from resnet import resnet18
 import numpy as np
